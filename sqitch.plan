@@ -2,3 +2,4 @@
 %project=flipdr
 %uri=https://github.com/crisp/sqitch-intro/
 
+appschema 2016-08-08T18:17:55Z Domi Santiago <Dominador.Santiago@finra.org> # Add schema for all flipr objects.
