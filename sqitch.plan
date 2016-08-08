@@ -4,3 +4,5 @@
 
 appschema 2016-08-08T18:17:55Z Domi Santiago <Dominador.Santiago@finra.org> # Add schema for all flipr objects.
 users [appschema] 2016-08-08T20:24:43Z Domi Santiago <Dominador.Santiago@finra.org> # Creates table to track our users.
+insert_user [users appschema] 2016-08-08T20:40:43Z Domi Santiago <Dominador.Santiago@finra.org> # Creates a function to insert a user.
+change_pass [users appschema] 2016-08-08T20:41:06Z Domi Santiago <Dominador.Santiago@finra.org> # Creates a function to change a user password.
