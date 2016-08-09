@@ -9,3 +9,5 @@ change_pass [users appschema] 2016-08-08T20:41:06Z Domi Santiago <Dominador.Sant
 @v1.0.0-dev1 2016-08-08T21:14:30Z Domi Santiago <Dominador.Santiago@finra.org> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2016-08-09T19:00:43Z Domi Santiago <Dominador.Santiago@finra.org> # Adds table for storing flips.
+insert_flip [appschema users flips] 2016-08-09T20:35:25Z Domi Santiago <Dominador.Santiago@finra.org> # Creates function to insert flips.
+delete_flip [appschema users flips] 2016-08-09T20:39:38Z Domi Santiago <Dominador.Santiago@finra.org> # Creates function to delete flips.
