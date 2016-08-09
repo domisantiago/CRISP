@@ -1,7 +1,6 @@
--- Deploy flipdr:insert_flip to pg
+-- Deploy CRISP:insert_flip to pg
 -- requires: appschema
 -- requires: users
--- requires: flips
 
 BEGIN;
 

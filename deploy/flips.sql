@@ -1,4 +1,4 @@
--- Deploy flipdr:flips to pg
+-- Deploy CRISP:flips to pg
 -- requires: appschema
 -- requires: users
 

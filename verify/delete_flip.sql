@@ -1,4 +1,4 @@
--- Verify flipdr:delete_flip on pg
+-- Verify CRISP:delete_flip on pg
 
 BEGIN;
 

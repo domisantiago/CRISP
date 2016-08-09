@@ -1,4 +1,4 @@
--- Verify flipdr:flips on pg
+-- Verify CRISP:flips on pg
 
 BEGIN;
 

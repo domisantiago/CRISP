@@ -1,4 +1,4 @@
--- Verify flipdr:insert_flip on pg
+-- Verify CRISP:insert_flip on pg
 
 BEGIN;
 

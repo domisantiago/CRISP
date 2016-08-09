@@ -1,4 +1,4 @@
--- Revert flipdr:insert_flip from pg
+-- Revert CRISP:insert_flip from pg
 
 BEGIN;
 

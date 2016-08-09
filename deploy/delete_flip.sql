@@ -1,4 +1,4 @@
--- Deploy flipdr:delete_flip to pg
+-- Deploy CRISP:delete_flip to pg
 -- requires: appschema
 -- requires: users
 -- requires: flips
