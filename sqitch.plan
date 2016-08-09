@@ -1,6 +1,6 @@
 %syntax-version=1.0.0
-%project=flipdr
-%uri=https://github.com/crisp/sqitch-intro/
+%project=CRISP
+%uri=https://github.com/domisantiago/CRISP/
 
 appschema 2016-08-08T18:17:55Z Domi Santiago <Dominador.Santiago@finra.org> # Add schema for all flipr objects.
 users [appschema] 2016-08-08T20:24:43Z Domi Santiago <Dominador.Santiago@finra.org> # Creates table to track our users.
