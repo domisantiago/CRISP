@@ -1,4 +1,4 @@
--- Revert flipdr:flips from pg
+-- Revert CRISP:flips from pg
 
 BEGIN;
 

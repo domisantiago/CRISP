@@ -8,6 +8,4 @@ insert_user [users appschema] 2016-08-08T20:40:43Z Domi Santiago <Dominador.Sant
 change_pass [users appschema] 2016-08-08T20:41:06Z Domi Santiago <Dominador.Santiago@finra.org> # Creates a function to change a user password.
 @v1.0.0-dev1 2016-08-08T21:14:30Z Domi Santiago <Dominador.Santiago@finra.org> # Tag v1.0.0-dev1.
 
-flips [appschema users] 2016-08-08T21:29:20Z Domi Santiago <Dominador.Santiago@finra.org> # Adds table for storing flips.
-insert_flip [appschema users flips] 2016-08-08T21:40:10Z Domi Santiago <Dominador.Santiago@finra.org> # Creates a function to insert a flip.
-delete_flip [appschema users flips] 2016-08-08T21:42:56Z Domi Santiago <Dominador.Santiago@finra.org> # Creates a function to delete a flip.
+flips [appschema users] 2016-08-09T19:00:43Z Domi Santiago <Dominador.Santiago@finra.org> # Adds table for storing flips.
